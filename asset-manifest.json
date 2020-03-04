@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_4/lifecyle/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/React_4/lifecyle/static/js/main.39d43e88.chunk.js",
+    "main.js.map": "/React_4/lifecyle/static/js/main.39d43e88.chunk.js.map",
+    "runtime-main.js": "/React_4/lifecyle/static/js/runtime-main.2b75c13e.js",
+    "runtime-main.js.map": "/React_4/lifecyle/static/js/runtime-main.2b75c13e.js.map",
+    "static/js/2.19d712cf.chunk.js": "/React_4/lifecyle/static/js/2.19d712cf.chunk.js",
+    "static/js/2.19d712cf.chunk.js.map": "/React_4/lifecyle/static/js/2.19d712cf.chunk.js.map",
+    "index.html": "/React_4/lifecyle/index.html",
+    "precache-manifest.b1eea858d5c00c109f502655c9ba51e1.js": "/React_4/lifecyle/precache-manifest.b1eea858d5c00c109f502655c9ba51e1.js",
+    "service-worker.js": "/React_4/lifecyle/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/React_4/lifecyle/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.19d712cf.chunk.js.LICENSE.txt": "/React_4/lifecyle/static/js/2.19d712cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b75c13e.js",
+    "static/js/2.19d712cf.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.39d43e88.chunk.js"
+  ]
+}
